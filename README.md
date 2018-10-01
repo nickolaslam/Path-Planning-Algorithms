@@ -1,2 +1,2 @@
 # Path-Planning-Algorithms
-![](testAnimated.gif)
+![](SquareWave.gif)
