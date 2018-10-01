@@ -106,7 +106,6 @@ while true
     [i, j] = ind2sub(size(f), current);
     
     % *********************************************************************
-    % ALL YOUR CODE BETWEEN THESE LINES OF STARS
     % Visit all of the neighbors around the current node and update the
     % entries in the map, f, g and parent arrays
     %
